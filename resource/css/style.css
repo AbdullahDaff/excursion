@@ -5,7 +5,15 @@ h1 {
   color: White
   background-color: Black
   text-align:center;
-
+}
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+video {
+  font-fit: contain;
 }
 
 
